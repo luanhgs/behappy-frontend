@@ -10805,6 +10805,6 @@ registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
-  react: ^16.8.3
-  react-dom: ^16.8.3
+  react: ^16.8.2
+  react-dom: ^16.8.2
   react-scripts: 2.1.5
