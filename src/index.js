@@ -6,7 +6,7 @@ import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(
   <App texto="Olá mundo!" />,
-  document.querySelector("root");
+  document.querySelector("root")
 );
 
 // If you want your app to work offline and load faster, you can change
